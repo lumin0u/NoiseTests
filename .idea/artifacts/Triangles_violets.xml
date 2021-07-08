@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Triangles_violets">
+    <output-path>$PROJECT_DIR$/out/artifacts/Triangles_violets</output-path>
+    <root id="archive" name="Noise.jar">
+      <element id="module-output" name="Noise" />
+    </root>
+  </artifact>
+</component>
